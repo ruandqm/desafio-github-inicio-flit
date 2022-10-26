@@ -1,7 +1,25 @@
 // Criado como exercício de fixação para o curso de Front-End da Flit Educação.
 // Nome e idade de pessoa conhecida
+// Rotina da pessoa
 
-Nome: Ana Lia 
-Idade: 17 anos
+const nome = "Ana Lia" 
+let idade = "17 anos"
+
+
+//Rotina
+
+function routine () {
+	return(
+		Acordar 5h da manhã morrendo de sono para ir estudar.
+		Passar o dia na escola profissional.
+		Dar aula à tarde.
+		Ir para a academia.
+		Mexer nas social medias e assistir TV.
+		Dormir
+		)
+}
+
+
+//Acho que fiz uma brincadeira criativa nisso aqui :)
 
 
