@@ -1,0 +1,7 @@
+// Criado como exercício de fixação para o curso de Front-End da Flit Educação.
+// Nome e idade de pessoa conhecida
+
+Nome: Ana Lia 
+Idade: 17 anos
+
+
